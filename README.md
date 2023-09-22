@@ -2,7 +2,7 @@
 
 Welcome to the Nike Website, a stunning e-commerce website built with React and styled with Tailwind CSS. This project is designed to showcase the power and flexibility of these technologies in creating a modern and responsive online shopping experience.
 
-![Nike Website Screenshot](screenshot.png)
+![Nike Website Screenshot](https://ibb.co/bRGtssL)
 
 ## Table of Contents
 

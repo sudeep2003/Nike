@@ -96,6 +96,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Status
 
+Still working on this project! Adding new features! Check back soon for updates.
 
 ---
 

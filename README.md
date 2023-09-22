@@ -54,13 +54,13 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/yourusername/nike-website.git
+   git clone https://github.com/sudeep2003/Nike.git
    ```
 
 2. Change your directory to the project folder:
 
    ```shell
-   cd nike-website
+   cd ./Nike
    ```
 
 3. Install the project dependencies:
@@ -74,10 +74,10 @@ Before you begin, ensure you have met the following requirements:
 To start a development server and view the website locally, use the following command:
 
 ```shell
-npm start
+npm run dev
 ```
 
-This will start the development server, and you can access the website by opening your browser and navigating to `http://localhost:3000`.
+This will start the local server, and you can access the website by opening your browser and navigating to `http://localhost:5173`.
 
 ## Contributing
 

@@ -90,10 +90,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 5. Push your changes to your forked repository.
 6. Create a pull request to the main repository, explaining your changes and why they should be merged.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Status
 
 Still working on this project! Adding new features! Check back soon for updates.
